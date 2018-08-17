@@ -4,6 +4,7 @@ Data Visualization in R
 This repository will help Data Analytics enthusiasts in you developing some basic plots treemap, bar plots, pie charts etc., I used the Kaggle Competition "Kiva Crowdfunding" as the data source to perform this exercise.
 
 Kaggle Competition link: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding/home
+
 Data for analysis: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
 
 #1. Introduction
