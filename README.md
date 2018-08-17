@@ -7,15 +7,15 @@ Kaggle Competition link: https://www.kaggle.com/kiva/data-science-for-good-kiva-
 
 Data for analysis: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
 
-#1. Introduction
+## 1. Introduction
 
 Data Visualization and it's importance.
 
-*As we all know, Data Visualization is an important and crucial tool in today’s data-focused business world. As Fred R. Barnard rightly says, A picture is worth a thousand words. Here is the link to the article that provides us with an understanding about the importance of Data Visualization **https://thekinigroup.com/importance-data-visualization/**
+* As we all know, Data Visualization is an important and crucial tool in today’s data-focused business world. As Fred R. Barnard rightly says, A picture is worth a thousand words. Here is the link to the article that provides us with an understanding about the importance of Data Visualization **https://thekinigroup.com/importance-data-visualization/**
 
 Programming Language: R 
 
-#2. Analysis
+## 2. Analysis
 
 **Approach to the solution**
 
