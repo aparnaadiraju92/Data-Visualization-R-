@@ -11,7 +11,9 @@ Data for analysis: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdf
 
 **Data Visualization and it's importance**
 
-*As we all know, Data Visualization is an important and crucial tool in today’s data-focused business world. As Fred R. Barnard rightly says, A picture is worth a thousand words. Here is the link to the article that provides us with an understanding about the importance of Data Visualization* **https://thekinigroup.com/importance-data-visualization/**
+*As Fred R. Barnard rightly says, A picture is worth a thousand words. Data Visualization is an important and crucial tool in today’s data-focused business world. *
+
+*Here is the link to the article that provides us with an understanding about the importance of Data Visualization* **https://thekinigroup.com/importance-data-visualization/**
 
 Programming Language: R 
 
@@ -30,4 +32,4 @@ Programming Language: R
  5. Data Exploration
  
  ###### #--------Part-3--------#
- 6. Data Visualization 
+ 6. Data Visualizations - bar plot, histograms, pie chart, maps (using leaflet), treemap, wordcloud, time series plot
