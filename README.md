@@ -60,8 +60,7 @@ Package used to create Visualizations : [ggplot2](https://cran.r-project.org/web
     ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot2.PNG)
     
     **PLOT 3 - Pie Chart**
-    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG = 250x250)
-    <img src="https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG" data-canonical-src="https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG" width="200" height="400" />
+    <img src="https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG" data-canonical-src="https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG" width="300" height="300" />
       
     **PLOT 4 - Word Cloud**
     
