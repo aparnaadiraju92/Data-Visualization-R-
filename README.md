@@ -23,22 +23,22 @@ Package used to create Visualizations : [ggplot2](https://cran.r-project.org/web
    *1. Combining various plots into one plot using grid package's pushViewport function.*
    
    *2. There are two types of bar charts - geom_bar(), geom_col(). 
-         geom_bar uses stat_count. It counts number of observations at each position of x. While, geom_col usses stat_identity , thus leaving the data as is. 
+         geom_bar uses stat_count. It counts number of observations at each position of x. While, geom_col usses stat_identity , thus leaving the data as is.*
          
-   *3. Treemaps display hierarchical data as a set of nested rectangles. When the color and size dimensions are correlated in some way with the tree structure, one can often easily see patterns that would be difficult to spot in other ways, such as if a certain color is particularly relevant.
+   *3. Treemaps display hierarchical data as a set of nested rectangles. When the color and size dimensions are correlated in some way with the tree structure, one can often easily see patterns that would be difficult to spot in other ways, such as if a certain color is particularly relevant.*
    
-   *4. Word cloud gives us a greater prominence to words that appear more frequently in the source text.
+   *4. Word cloud gives us a greater prominence to words that appear more frequently in the source text.*
    
-   *5. [Leaflet](https://rstudio.github.io/leaflet/) package is an interface to the JavaScript library Leaflet to create interactive web maps.
+   *5. [Leaflet](https://rstudio.github.io/leaflet/) package is an interface to the JavaScript library Leaflet to create interactive web maps.*
    
-   *6. Time series is a series of data points indexed (or listed or graphed) in time order.
+   *6. Time series is a series of data points indexed (or listed or graphed) in time order.*
    
    
 ## 3. Analysis
 
 **Approach to the solution**
 
-      The R code for the below solution is provided in the [.R file](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Rcode_Kaggle_KivaCrowdfunding.R)
+   The R code for the below solution is provided in the [.R file](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Rcode_Kaggle_KivaCrowdfunding.R)
 
 ###### #--------Part-1--------#
  1. Work directory
