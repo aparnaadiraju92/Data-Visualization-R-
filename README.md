@@ -35,13 +35,32 @@ Programming Language: R
     * *PLOT 1 - Bar plots (using geom_col()) 2x2 plot - Flipped*
     ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot1.PNG)
     
-    
     * *PLOT 2 - Tree map*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot2.PNG)
+    
     * *PLOT 3 - Pie Chart*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot3.PNG)
+      
     * *PLOT 4 - Word Cloud*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot4.PNG)
+      
+      
     * *PLOT 5 - Bar plot (using goem_col())*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot5.PNG)
+      
+      
     * *PLOT 6 - Histogram*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot6.PNG)
+      
     * *PLOT 7 - using geom_count()*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot7.PNG)
+      
+      
     * *PLOT 8 - using facet_grid()*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot8.PNG)
+      
     * *PLOT 9 - using leaflet*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot9.PNG)
+      
     * *PLOT 10 - Time series*
+    ![alt text](https://github.com/aparnaadiraju92/Kiva-Crowdfunding-Data-Visualization-/blob/master/Plots/Plot10.PNG)
