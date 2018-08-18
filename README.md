@@ -33,7 +33,7 @@ Programming Language: R
  
  ###### #--------Part-3--------#
  6. Data Visualizations 
-    * *PLOT 1 - Bar plots (using geom_col()) 2*2 plot - Flipped*
+    * *PLOT 1 - Bar plots (using geom_col()) 2x2 plot - Flipped*
     * *PLOT 2 - Tree map*
     * *PLOT 3 - Pie Chart*
     * *PLOT 4 - Word Cloud*
