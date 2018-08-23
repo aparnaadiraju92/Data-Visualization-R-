@@ -1,4 +1,4 @@
-# Data Visualization in R
+# Data Visualizations in R
 
 **Kiva Crowdfunding Data Visualization**
 
