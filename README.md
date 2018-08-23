@@ -1,6 +1,6 @@
-# Kiva Crowdfunding Data Visualization
+# Data Visualization in R
 
-**Data Visualization in R**
+**Kiva Crowdfunding Data Visualization**
 
 This repository will help Data Analytics enthusiasts in you developing some basic plots treemap, bar plots, pie charts etc., I used the Kaggle Competition "Kiva Crowdfunding" as the data source to perform this exercise.
 
